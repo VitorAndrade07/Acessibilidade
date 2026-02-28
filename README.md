@@ -1,4 +1,4 @@
-# Mobile Accessibility & UX Research (Kotlin). Focus on accessibility on project kotlin!
+# Mobile Accessibility & UX Research (Kotlin). Focusing on accessibility in this kotlin project!
 
 This project explores the implementation of accessibility standards in mobile development using **Kotlin**. It focuses on creating inclusive digital experiences for all users.
 
